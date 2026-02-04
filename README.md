@@ -1,2 +1,1 @@
-# anuran_population_decline
-A repository for codes and supplementary materials
+This repository contains supplementary material and codes for the paper "Phenotypic and ecological correlates of population decline in the world’s anurans", by Giovanna Sandretti-Silva, Andreas Schwarz Meyer, Fernanda S. Caron, Raquel Divieso, Marcos R. Bornschein, & Marcio R. Pie.
